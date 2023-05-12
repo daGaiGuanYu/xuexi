@@ -1,6 +1,6 @@
 # 第一期
-主要内容：学习使用 React  
-更重要的是通过 React，理解 JS
+主要内容：[学习使用 React](git@github.com:learnfor11/learn_react.git)  
+更重要的是通过 React，理解 JS  
 
 ##### 必备工具
 + 一台电脑（能上网）
