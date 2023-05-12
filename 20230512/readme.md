@@ -5,6 +5,6 @@
 ##### 必备工具
 + 一台电脑（能上网）
 + vpn（不能被网络问题浇灭学习的心情）
-+ 安装 vscode
++ 安装 [vscode](https://code.visualstudio.com/), [Node.js](https://nodejs.org/)
 
 > 其他啥也不要，工具越少，负担越小
