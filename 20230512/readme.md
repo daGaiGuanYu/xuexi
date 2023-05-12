@@ -8,3 +8,6 @@
 + 安装 [vscode](https://code.visualstudio.com/), [Node.js](https://nodejs.org/)
 
 > 其他啥也不要，工具越少，负担越小
+
+##### 链接
++ [学习资料](https://github.com/learnfor11/learn_react)
