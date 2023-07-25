@@ -30,6 +30,5 @@
 + 自写 state
 
 ##### 第六步 构建工具
-+ webpack
-+ rollup
-+ esbuild
++ 介绍构建工具们
++ esbuild 用法
